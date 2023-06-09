@@ -5,3 +5,4 @@ listing files in long format
 listing hidden files
 listing all files in numeric id
 making directory within a directory
+moving files
